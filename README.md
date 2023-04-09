@@ -3,7 +3,7 @@
 
 ### TELAGRAM SUPPORT
 
-[![BOT MECHANIC](https://t.me/BOT_MECHANIC_CHANNEL)]
+[!][BOT MECHANIC](https://t.me/BOT_MECHANIC_CHANNEL)]
 
 </p>
 <h1 align="center">
