@@ -1,5 +1,10 @@
 <p align="center">
   <img src="https://graph.org/file/39fdd9beaaf070b10a987.jpg">
+
+### TELAGRAM SUPPORT
+
+[![BOT MECHANIC](https://t.me/BOT_MECHANIC_CHANNEL)]
+
 </p>
 <h1 align="center">
   <b>TaniyaAutoFilterBot</b>
