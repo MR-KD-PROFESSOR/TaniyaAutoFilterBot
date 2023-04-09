@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.jpg">
+  <img src="https://telegram.me/share/url?url=https://graph.org/file/39fdd9beaaf070b10a987.jpg">
 </p>
 <h1 align="center">
   <b>TaniyaAutoFilterBot</b>
