@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://graph.org/file/39fdd9beaaf070b10a987.jpg">
 
-<b>👋 Hello Guys, Welcome To TaniyaAutoFilterBot</b>
+<b>👋 Hello Guys, Welcome To Github</b>
 
 | 𝘌𝘮𝘰𝘫𝘪 | 𝘋𝘦𝘵𝘢𝘪𝘭𝘴 | 𝘐𝘯𝘧𝘰 |
 | ---- | ---- | ---- |
