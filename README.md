@@ -1,9 +1,7 @@
 <p align="center">
   <img src="https://graph.org/file/39fdd9beaaf070b10a987.jpg">
 
-### TELAGRAM SUPPORT
-
-👋 𝙃𝙚𝙡𝙡𝙤 𝙂𝙪𝙮𝙨, 𝙒𝙚𝙡𝙘𝙤𝙢𝙚 𝙏𝙤Github
+<b>👋 Hello Guys, Welcome To TaniyaAutoFilterBot</b>
 
 | 𝘌𝘮𝘰𝘫𝘪 | 𝘋𝘦𝘵𝘢𝘪𝘭𝘴 | 𝘐𝘯𝘧𝘰 |
 | ---- | ---- | ---- |
