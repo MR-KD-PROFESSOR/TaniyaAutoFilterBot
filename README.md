@@ -1,8 +1,6 @@
 <p align="center">
   <img src="https://graph.org/file/39fdd9beaaf070b10a987.jpg">
 
-<b>👋 Hello Guys, Welcome To Github</b>
-
 | 𝘌𝘮𝘰𝘫𝘪 | 𝘋𝘦𝘵𝘢𝘪𝘭𝘴 | 𝘐𝘯𝘧𝘰 |
 | ---- | ---- | ---- |
 | 🤵 | 𝘕𝘢𝘮𝘦 | 𝘚𝘶𝘯𝘦𝘦𝘴𝘩 |
